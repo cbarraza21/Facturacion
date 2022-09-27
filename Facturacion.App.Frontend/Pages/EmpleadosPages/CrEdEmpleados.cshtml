@@ -1,0 +1,67 @@
+﻿@page
+@model Facturacion.App.Frontend.Pages.CrEdEmpleadosModel
+@{
+}
+
+<h2>Ingreso datos Empleado</h2>
+
+<form method="post">
+    <div class="form-group" style="display: none;">
+        <label asp-for="empleado1.Id">Id:</label>
+        <input asp-for="empleado1.Id"  class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="empleado1.CodigoEmpleado">CodigoEmpleado:</label>
+        <input asp-for="empleado1.CodigoEmpleado" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="empleado1.Cedula">Cedula:</label>
+        <input asp-for="empleado1.Cedula" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="empleado1.Nombres">Nombres:</label>
+        <input asp-for="empleado1.Nombres" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="empleado1.Apellidos">Apellidos:</label>
+        <input asp-for="empleado1.Apellidos" required="required" class="form-control"/>
+    </div>    
+
+    <div class="form-group">
+        <label asp-for="empleado1.Direccion">Direccion:</label>
+        <input asp-for="empleado1.Direccion" required="required" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="empleado1.FechaNacimiento">Fecha de Nacimiento:</label>
+        <input asp-for="empleado1.FechaNacimiento" required="required" class="form-control"/>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="empleado1.NumeroTelefono">Numero de Telefono:</label>
+        <input asp-for="empleado1.NumeroTelefono" required="required" class="form-control"/>
+    </div>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="empleado1.Correo">Correo Electronico:</label>
+        <input asp-for="empleado1.Correo" required="required" class="form-control"/>
+    </div>
+    
+    
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" onclick="firstExample()">Guardar</button>
+    </div>
+
+    <div class="form-group">
+        <a asp-page="./ListarEmpleados" class="btn-default">Lista de Empleados</a>
+    </div>
+    
+</form>
+
+
+

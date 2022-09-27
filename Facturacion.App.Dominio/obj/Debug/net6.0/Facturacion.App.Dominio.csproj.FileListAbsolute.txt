@@ -1,0 +1,12 @@
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.csproj.AssemblyReference.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.AssemblyInfoInputs.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.AssemblyInfo.cs
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\bin\Debug\net6.0\Facturacion.App.Dominio.deps.json
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\bin\Debug\net6.0\Facturacion.App.Dominio.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\bin\Debug\net6.0\Facturacion.App.Dominio.pdb
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\refint\Facturacion.App.Dominio.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\Facturacion.App.Dominio.pdb
+C:\Facturacion\Facturacion.App\Facturacion.App.Dominio\obj\Debug\net6.0\ref\Facturacion.App.Dominio.dll

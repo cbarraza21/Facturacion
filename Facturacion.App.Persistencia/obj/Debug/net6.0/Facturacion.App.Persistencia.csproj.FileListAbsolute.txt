@@ -1,0 +1,17 @@
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Persistencia.deps.json
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Persistencia.runtimeconfig.json
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Persistencia.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Persistencia.pdb
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Dominio.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\bin\Debug\net6.0\Facturacion.App.Dominio.pdb
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.csproj.AssemblyReference.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.AssemblyInfoInputs.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.AssemblyInfo.cs
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.csproj.CopyComplete
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\refint\Facturacion.App.Persistencia.dll
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.pdb
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\Facturacion.App.Persistencia.genruntimeconfig.cache
+C:\Facturacion\Facturacion.App\Facturacion.App.Persistencia\obj\Debug\net6.0\ref\Facturacion.App.Persistencia.dll
